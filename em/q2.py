@@ -1296,7 +1296,7 @@ def generate():
 
         # Now build the output string
         output_list = [
-            "!!! QUESTION:\n",
+            "\n!!! QUESTION:\n",
             "-------------\n",
             "".join([q, "\n\n\n\n"]),
             "!!! ANSWER:\n",
