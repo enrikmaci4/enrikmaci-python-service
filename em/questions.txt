@@ -1,0 +1,111 @@
+What is Python?
+Python is an interpreted language. Explain
+What is the difference between lists and tuples?
+What is pep 8?
+What are the Key features of Python?
+How is Memory managed in Python?
+What is PYTHONPATH?
+What are Python Modules?
+What are python namespaces?
+Explain Inheritance in Python with an example?
+What is scope resolution?
+What is a dictionary in Python?
+What are functions in Python?
+What is __init__ in Python?
+What are the common built in data types in Python?
+What are local variables and global variables in Python?
+What is type conversion in Python?
+How to install Python on Windows and set a path variable?
+What is the difference between Python Arrays and lists?
+Is python case sensitive?
+What does [::-1] do?
+What are Python packages?
+What are decorators in Python?
+Is indentation required in Python?
+How does break, continue, and pass work?
+How can you randomize the items of a list in place in Python?
+How to comment with multiple lines in Python?
+What type of language is python? Programming or scripting?
+What are negative indexes and why are they used?
+Explain split(), sub(), subn() methods of "re" module in Python?
+What do you mean by Python literals?
+What is a map function in Python?
+What are the generators in python?
+What are python iterators?
+Do we need to declare variables with data types in Python?
+What are Dict and List comprehensions?
+How do you write comments in python?
+Is multiple inheritance supported in Python?
+What is the difference between range & xrange?
+What is pickling and unpickling?
+What do you understand by Tkinter?
+Is Python fully object oriented?
+Differentiate between NumPy and SciPy?
+Explain all file processing modes supported in Python?
+What do file related modules in Python do? Can you name some file related modules in Python?
+Explain the use of the 'with' statement and its syntax?
+Write a code to display the contents of a file in reverse?
+Write a code to display the contents of a file in reverse? <example in pdf>
+Write a command to open the file c:\hello.txt for writing?
+What does len() do?
+What does *args and **kwargs mean?
+How will you remove duplicate elements from a list?
+How can files be deleted in Python?
+How will you read a random line in a file?
+Write a Python program to count the total number of lines in a text file?
+What would be the output if I run the following code block? <example in pdf>
+What is the purpose of is, not and in operators?
+Whenever Python exits, why isn’t all the memory de allocated?
+How can the ternary operators be used in python?
+How to add values to a python array?
+How to remove values to a python array?
+Write a code to sort a numerical list in Python?
+Can you write an efficient code to count the number of capital letters in a file?
+How will you reverse a list in Python?
+How will you remove the last object from a list in Python?
+How can you generate random numbers in Python?
+How will you convert a string to all lowercase?
+Why would you use NumPy arrays instead of lists in Python?
+What is Polymorphism in Python?
+Define encapsulation in Python?
+What advantages do NumPy arrays offer over (nested) Python lists?
+What is the lambda function in Python?
+What is self in Python?
+What is the difference between append() and extend() methods?
+How does Python Flask handle database requests?
+What is docstring in Python?
+How is Multithreading achieved in Python?
+What is slicing in Python?
+What is functional programming? Does Python follow a functional programming style? If yes, list a few methods to implement functionally oriented programming in Python
+Which one of the following is not the correct syntax for creating a set in Python?
+What is monkey patching in Python?
+What is the difference between / and // operator in Python?
+What is pandas?
+What are dataframes?
+How to combine dataframes in pandas?
+How do you identify missing values and deal with missing values in Dataframe?
+What is regression?
+What is classification?
+How do you split the data in train and test dataset in python?
+What is SVM?
+Write a code to get the indices of N maximum values from a NumPy array?
+What is the easiest way to calculate percentiles when using Python?
+Write a Python program to check whether a given string is a palindrome or not, without using an iterative method?
+Write a Python program to calculate the sum of a list of numbers?
+Write a program in Python to execute the Bubble sort algorithm?
+Write a program to produce Fibonacci series in Python?
+Write a program in Python to produce Star triangle?
+Write a program in Python to check if a number is prime?
+Write a sorting algorithm for a numerical dataset in Python?
+Write a Program to print ASCII Value of a character in python?
+What are nolocal and global keywords used for?
+What is the difference between classmethod and staticmethod?
+What is GIL and what are some of the ways to get around it?
+What are metaclasses and when are they used?
+What are type annotations? What are generic type annotations?
+What are generator functions? Write your own version of range
+What are decorators in Python?
+What is pickling and unpickling in Python?
+What are *args and **kwargs in Python functions?
+What are .pyc files used for?
+How do you define abstract classes in Python?
