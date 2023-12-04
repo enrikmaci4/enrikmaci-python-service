@@ -45,7 +45,7 @@ Explain all file processing modes supported in Python?
 What do file related modules in Python do? Can you name some file related modules in Python?
 Explain the use of the 'with' statement and its syntax?
 Write a code to display the contents of a file in reverse?
-Write a code to display the contents of a file in reverse? <example in pdf>
+Which of the following is an invalid statement?
 Write a command to open the file c:\hello.txt for writing?
 What does len() do?
 What does *args and **kwargs mean?
