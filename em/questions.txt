@@ -93,8 +93,8 @@ What is the easiest way to calculate percentiles when using Python?
 Write a Python program to check whether a given string is a palindrome or not, without using an iterative method?
 Write a Python program to calculate the sum of a list of numbers?
 Write a program in Python to execute the Bubble sort algorithm?
-Write a program to produce Fibonacci series in Python?
 Write a program in Python to produce Star triangle?
+Write a program to produce Fibonacci series in Python?
 Write a program in Python to check if a number is prime?
 Write a sorting algorithm for a numerical dataset in Python?
 Write a Program to print ASCII Value of a character in python?
