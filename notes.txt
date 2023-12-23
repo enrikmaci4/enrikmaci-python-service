@@ -1,0 +1,16 @@
+Commands to run to deploy website:
+```
+az login
+az webapp up --runtime PYTHON:3.9 --sku B1 --logs --name enrikmaci-python
+```
+
+Commands to update website:
+```
+# Change these values to the ones used to create the App Service.
+RESOURCE_GROUP_NAME='enrik1_rg_9989'
+APP_SERVICE_NAME='enrikmaci-python'
+
+az webapp deployment source config-local-git --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --output tsv
+az webapp deployment list-publishing-credentials --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --query "{Username:publishingUserName, Password:publishingPassword}" --output table
+git remote add azure <git-deployment-url>
+```
