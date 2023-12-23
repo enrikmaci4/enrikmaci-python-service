@@ -109,3 +109,4 @@ What is pickling and unpickling in Python?
 What are *args and **kwargs in Python functions?
 What are .pyc files used for?
 How do you define abstract classes in Python?
+What's the star, *, operator doing in this code? Explain the outputs.

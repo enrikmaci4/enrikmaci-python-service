@@ -1279,6 +1279,45 @@ def a110():
     print("```")
     print(" ")
 
+def a110():
+    print("You define an abstract class by inheriting the ABC class from the abc module:")
+    print("```")
+    print("from abc import ABC")
+    print("class AbstractCar(ABC):")
+    print("    @abstractmethod")
+    print("    def drive(self):")
+    print("       pass")
+    print("```")
+    print(" ")
+    print("To implement the class, just inherit it:")
+    print("class ToyotaSupra(AbstractCar):")
+    print("    def drive(self):")
+    print("       print('brrrr sutututu')")
+    print("```")
+    print(" ")
+
+def a111():
+    print("Python code")
+    print("```")
+    print("x = [[1,0,1], [0,1,0], [1,0,1]]")
+    print("print(zip(x))")
+    print("print(zip(*x))")
+    print("```")
+    print(" ")
+    print("Output:")
+    print("```")
+    print("[([1, 0, 1],), ([0, 1, 0],), ([1, 0, 1],)]")
+    print("[(1, 0, 1), (0, 1, 0), (1, 0, 1)]")
+    print("```")
+    print(" ")
+    print("Explanation:")
+    print("The star, *, operator is used to unpack the elements of an iterable object, such as a list, tuple, or generator, and pass them as separate arguments to a function. In this case, the function is zip, which takes one or more iterables and returns an iterator of tuples, where each tuple contains the corresponding elements from each iterable.")
+    print(" ")
+    print("In the first print statement, zip(x) takes the list x as a single argument, and returns an iterator of tuples, where each tuple contains one element from x. Since x has three elements, each of which is a sublist, the result is an iterator of three tuples, each containing one sublist.")
+    print(" ")
+    print("In the second print statement, zip(*x) takes the unpacked elements of x as separate arguments, and returns an iterator of tuples, where each tuple contains the corresponding elements from each sublist. Since x has three sublists, each of which has three elements, the result is an iterator of three tuples, each containing three numbers. This is equivalent to transposing the matrix x.")
+    print(" ")
+
 def generate():
     with open(FILE, "r") as fp:
         question_list = fp.readlines()
@@ -1309,7 +1348,6 @@ def generate():
 
 def main():
     generate()
-
 
 if __name__=="__main__":
     main()
