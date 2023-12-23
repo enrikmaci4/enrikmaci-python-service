@@ -14,3 +14,8 @@ az webapp deployment source config-local-git --name $APP_SERVICE_NAME --resource
 az webapp deployment list-publishing-credentials --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --query "{Username:publishingUserName, Password:publishingPassword}" --output table
 git remote add azure <git-deployment-url>
 ```
+
+Commands to update website (linked to git):
+```
+git push <updated repository>
+```

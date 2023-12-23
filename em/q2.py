@@ -1323,6 +1323,7 @@ def generate():
         question_list = fp.readlines()
         num_questions = len(question_list)
         ii_random = random.randint(0, num_questions-1)
+        ii_random = 111
         # Question
         q = question_list[ii_random]
         # Answer 
